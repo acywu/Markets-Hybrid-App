@@ -1,5 +1,5 @@
 # Markets-Hybrid-App
-Receive and manage orders. Android + iOS. Using ionic, cordova, angularjs.
+Brower and join the local marketplace. Android + iOS. Using ionic, cordova, angularjs.
 
 # Implemented functions
 - Push Notification
